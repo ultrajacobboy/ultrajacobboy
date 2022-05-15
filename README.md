@@ -1,3 +1,1 @@
-Hi there 👋
-
-js python c++ idk
+funny based code
